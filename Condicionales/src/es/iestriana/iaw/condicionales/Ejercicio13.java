@@ -4,17 +4,18 @@ import java.util.Scanner;
 
 public class Ejercicio13 {
 
-	/*Build a program that calculates the body mass index of a person (IMC = weight [kg] / height2 [m]) and indicates the state in which that person is based on the value of IMC:
-	IMC value Diagnosis <16 Hospital admission criteria
-	from 16 to 17 underweight
-	17 to 18 underweight
-	18 to 25 normal weight (healthy)
-	25 to 30 overweight (grade I obesity)
-	30 to 35 chronically overweight (obesity grade II)
-	35 to 40 premorbid obesity (grade III obesity)
-	> 40 morbid obesity (grade IV obesity)
-	Note 1: The use of nested if � else statements is recommended.
-	Note 2: The operands (weight and height) must be entered by keyboard by the user.
+	/*
+Construya un programa que calcule el índice de masa corporal de una persona (IMC = peso [kg] / altura2 [m]) e indique el estado en el que esa persona se basa en el valor de IMC:
+Valor IMC Diagnóstico <16 Criterios de ingreso hospitalario
+de 16 a 17 bajo peso
+17 a 18 bajo peso
+18 a 25 peso normal (saludable)
+25 a 30 sobrepeso (obesidad grado I)
+30 a 35 sobrepeso crónico (grado de obesidad II)
+35 a 40 obesidad premórbida (obesidad de grado III)
+> 40 obesidad mórbida (obesidad grado IV)
+Nota 1: Se recomienda el uso de declaraciones if - else anidadas.
+Nota 2: Los operandos (peso y altura) deben ser ingresados ​​por teclado por el usuario.
 	*/
 	private static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {

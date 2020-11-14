@@ -3,10 +3,7 @@ package es.iestriana.iaw.condicionales;
 import java.util.Scanner;
 
 public class Ejercicio12 {
-	/*
-	 * Ask for two dates and show the number of days
-	 * that are different. Assuming all 30-day 
-	 */
+	/*Solicite dos fechas y muestre la cantidad de días que son diferentes. Suponiendo todos los meses de 30 días*/
 	private static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		System.out.println("DÍA 1: ");

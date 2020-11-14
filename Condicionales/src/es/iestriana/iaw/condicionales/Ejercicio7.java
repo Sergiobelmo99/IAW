@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Ejercicio7 {
 
+	/*
+	 * Ingrese una calificación de 0 a 10 y muéstrela en el formulario: insuficiente, suficiente, bueno ...
+	 */
 	private static Scanner sc = new Scanner(System.in);
 
 	public static void main(String[] args) {
