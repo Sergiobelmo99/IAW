@@ -1,10 +1,11 @@
-package es.ejercicios.iaw.repasomios;
+package Bucles;
 
 
-public class Ejercicio8 {
+public class Ejercicio09 {
 
-	// Escribe todos los números del 100 al 0 del 7 en 7.
+	// Escriba todos los números del 100 al 0 del 7 al 7.
 	
+
 	public static void main(String[] args) {
 
 		
