@@ -1,8 +1,8 @@
-package Bucles;
+package es.iestriana.practise;
 
 import java.util.Scanner;
 
-public class Ejercicio10 {
+public class EjercicioDivisores {
 
 //	// Dados dos números, indique si son amigos o no. Dos números son amigos si la suma de los divisores propios de uno de ellos es igual al otro (la unidad se considera un divisor propio, pero el mismo número no lo es)
 //	220 y 284
